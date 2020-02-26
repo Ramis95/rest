@@ -1,0 +1,32 @@
+.page_content_title {
+  text-align: center;
+  font-size: 27px;
+  margin: 30px 0 30px;
+}
+
+.btn_logout {
+  float: right;
+  width: auto;
+}
+
+.error {
+  text-align: center;
+  color: red;
+}
+
+.result_block {
+  margin-bottom: 20px;
+}
+.result_block .one {
+  background: #eeeeee;
+  border-bottom: 1px solid grey;
+  margin-bottom: 3px;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+.result_block .one p {
+  margin-bottom: 0;
+  display: inline-block;
+  padding: 5px 10px;
+}
